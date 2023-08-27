@@ -12,7 +12,7 @@ public class TesteRelogio {
         Relogio rolex = new Relogio();
         rolex.setFormatoDisplay(respFormato);
 
-        if (respFormato.equals("24h")   ){
+        if (respFormato.equals("24h")){
             rolex.getHora().setLimite(24);
             rolex.getMinuto().setLimite(60);
 
