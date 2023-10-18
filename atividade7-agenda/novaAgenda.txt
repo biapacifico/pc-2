@@ -1,0 +1,3 @@
+Boba Fett;4444-4444;bobafett@st.com;Kamino
+Din Djarin;3333-3333;dindjarin@st.com;Mandalore
+Baby Yoda;2222-2222;babyoda@st.com;Arvala-7
